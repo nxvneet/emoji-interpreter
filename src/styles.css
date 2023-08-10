@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  padding: 0.7rem;
+  width: 80%;
+}
+h3 {
+  margin-top: 2rem;
+}
+ul {
+  margin: 0;
+}
